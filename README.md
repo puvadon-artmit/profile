@@ -1,4 +1,4 @@
-Hello, I'm Phuwadol Amit, a programmer with proficiency in various programming languages and technologies. I have expertise in TypeScript, JavaScript, Node.js, Express.js, MongoDB, MySQL, Java, PHP, Tailwind CSS, Material-UI (MUI), C, Flutter, Dart, React, Bootstrap, Figma, HTML, CSS, Git, Docker, and REST API.
+Hello, I'm Phuwadol Artmit, a programmer with proficiency in various programming languages and technologies. I have expertise in TypeScript, JavaScript, Node.js, Express.js, MongoDB, MySQL, Java, PHP, Tailwind CSS, Material-UI (MUI), C, Flutter, Dart, React, Bootstrap, Figma, HTML, CSS, Git, Docker, and REST API.
 
 I possess a diverse skill set that allows me to work across the full stack, from front-end technologies like React and Tailwind CSS to server-side technologies like Node.js and Express.js. My experience extends to database management with MongoDB and MySQL, and I'm comfortable working with various languages such as Node.js, Express.js,TypeScript, and  MongoDB,MySQL.
 
